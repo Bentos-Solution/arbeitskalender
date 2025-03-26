@@ -1,1 +1,61 @@
 BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Dein Arbeitskalender//DE
+BEGIN:VEVENT
+UID:-8517741945524792314@bentos-solution.de
+DTSTAMP:20250326T122800
+DTSTART;TZID=Europe/Berlin:20250326T090000
+DTEND;TZID=Europe/Berlin:20250326T100000
+SUMMARY:Belege und Rechnungen
+DESCRIPTION:Wiederholung: jeden mittwoch\nZeitfenster: Mittwochs ab 9:30 Uhr\nUnteraufgaben: Belege einlesen, Belege kontieren, Überweisungen vorbereiten, Kassenbestand Update (Lex.)
+END:VEVENT
+BEGIN:VEVENT
+UID:-7709455228004272152@bentos-solution.de
+DTSTAMP:20250326T122800
+DTSTART;TZID=Europe/Berlin:20250326T090000
+DTEND;TZID=Europe/Berlin:20250326T100000
+SUMMARY:Social media Routine
+DESCRIPTION:Wiederholung: jeden mittwoch nach der aufgabe belege und rechnung\nZeitfenster: Mittwochs nach der Aufgabe Belege und Rechnungen\nUnteraufgaben: nan
+END:VEVENT
+BEGIN:VEVENT
+UID:-6649903227850858066@bentos-solution.de
+DTSTAMP:20250326T122800
+DTSTART;TZID=Europe/Berlin:20250327T090000
+DTEND;TZID=Europe/Berlin:20250327T100000
+SUMMARY:Controlling
+DESCRIPTION:Wiederholung: jeden donnerstag\nZeitfenster: Donnerstags ab 10:00 Uhr\nUnteraufgaben: Neue Zahlungen identifizieren, Zahlungen zuordnen, auch Einnahmen berücksichtigen, neue Infos in Liqui einpflegen
+END:VEVENT
+BEGIN:VEVENT
+UID:-897976883179171459@bentos-solution.de
+DTSTAMP:20250326T122800
+DTSTART;TZID=Europe/Berlin:20250326T090000
+DTEND;TZID=Europe/Berlin:20250326T100000
+SUMMARY:Lohnabrechnung und Sozialabgaben
+DESCRIPTION:Wiederholung: am 26. jeden monats\nZeitfenster: Am 26. eines Monats ab 10:00 Uhr\nUnteraufgaben: Sozialversicherungen, Lohnabrechnungen, Kai!, Bargeld abheben
+END:VEVENT
+BEGIN:VEVENT
+UID:-1798737229436475201@bentos-solution.de
+DTSTAMP:20250326T122800
+DTSTART;TZID=Europe/Berlin:20250326T090000
+DTEND;TZID=Europe/Berlin:20250326T100000
+SUMMARY:Koblenz Rechnung
+DESCRIPTION:Wiederholung: am 26. jeden monats\nZeitfenster: Nach der Aufgabe Lohnabrechnung und Sozialabgaben\nUnteraufgaben: Aufmaß und Rechnung
+END:VEVENT
+BEGIN:VEVENT
+UID:9179209676240260639@bentos-solution.de
+DTSTAMP:20250326T122800
+DTSTART;TZID=Europe/Berlin:20250326T090000
+DTEND;TZID=Europe/Berlin:20250326T100000
+SUMMARY:UstVa Meldung
+DESCRIPTION:Wiederholung: am 9. jeden monats\nZeitfenster: Am 9. eines Monats ab 10:00 Uhr\nUnteraufgaben: Alle Belege Berücksichtigt?
+END:VEVENT
+BEGIN:VEVENT
+UID:-4590764465246096168@bentos-solution.de
+DTSTAMP:20250326T122800
+DTSTART;TZID=Europe/Berlin:20250326T090000
+DTEND;TZID=Europe/Berlin:20250326T100000
+SUMMARY:Kasse Update
+DESCRIPTION:Wiederholung: am 03. jeden monats\nZeitfenster: Am 03. jeden Monats ab 10:00 Uhr\nUnteraufgaben: Kassenbestand, Bargehälter buchen
+END:VEVENT
+END:VCALENDAR
